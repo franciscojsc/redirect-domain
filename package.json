@@ -1,0 +1,25 @@
+{
+  "name": "redirect-domain",
+  "version": "1.0.0",
+  "description": "Redirect web domain",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscojsc/redirect-domain.git"
+  },
+  "keywords": [
+    "redirect-domain"
+  ],
+  "author": "Francisco Chaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franciscojsc/redirect-domain/issues"
+  },
+  "homepage": "https://github.com/franciscojsc/redirect-domain#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
